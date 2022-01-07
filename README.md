@@ -1,0 +1,2 @@
+# kmo-asemakaava
+Kaavamääräysoppaat - asemakaava
