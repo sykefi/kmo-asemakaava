@@ -1,6 +1,6 @@
 ---
 layout: "default"
 description: ""
-id: "kaavamaaraysopas"
+id: "johdanto"
 ---
-# Kaavamääräysopas
+# Kaavamääräysopas - asemakaava
