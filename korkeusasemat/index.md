@@ -1,6 +1,6 @@
 ---
 layout: "default"
 description: ""
-id: "korkeusasema"
+id: "korkeusasemat"
 ---
 # Korkeusasemat
